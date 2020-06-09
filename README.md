@@ -1,7 +1,7 @@
 # LakeComoTraining-
 This repo follows Reed Group Training on Lake Como (Summer 2020)
 
-# In order to run the problem, please reference: https://docs.google.com/presentation/d/1Mr_8DfxsDUBDF8duwXIaNYbIKVvZi3fUpuFhestZFZk/edit#slide=id.g8091451994_0_15
+#In order to run the problem, please reference: https://docs.google.com/presentation/d/1Mr_8DfxsDUBDF8duwXIaNYbIKVvZi3fUpuFhestZFZk/edit#slide=id.g8091451994_0_15
 
 # Generation of the Pareto Front: 
 Figures/generate_pareto.py
